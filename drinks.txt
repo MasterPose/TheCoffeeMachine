@@ -314,3 +314,5 @@ INK
 Death<Apparently your body was allergic to ink.>
 OIL
 Flammable<>
+GAY
+Death<Ur mom.>
