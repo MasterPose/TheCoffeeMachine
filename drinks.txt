@@ -412,3 +412,29 @@ SPRITE
 Message<"Best drink of all">
 :(
 Death<:)>
+VIBE
+Image<https://i.ytimg.com/vi/mYugwGNOIeM/maxresdefault.jpg>
+SATAN
+Quit<>
+MEME
+Image<https://i.pinimg.com/236x/57/5a/76/575a760334b520e9b8d317e9e1718976.jpg>
+PORN
+Image<https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTGQa7d72b0NHPtQSimT2JxJO2lJF5H3Zdj0oy5klv3N8_UlYGL>
+HERE WERE DRAGONS
+Death<You cried for an entire month until you decided to kill yourself.>
+DRAGONS
+Message<[i]Here were...[/i]>
+GATE B
+Death<It seems CHAOS Insurgency raided the facility by the fact you [b][i]drunk[/i][/b] one of the gates.>
+CAT SHIT
+Death<Please stop introducing this weird shit :)>
+CAT PEE
+Death<Please stop introducing this weird shit :)>
+DOG SHIT
+Death<Please stop introducing this weird shit :)>
+DOG PEE
+Death<Please stop introducing this weird shit :)>
+CAT URINE
+Death<Please stop introducing this weird shit :)>
+DOG URINE
+Death<Please stop introducing this weird shit :)>
