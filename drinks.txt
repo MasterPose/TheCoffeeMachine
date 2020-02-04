@@ -1,0 +1,316 @@
+TEQUILA
+Death<Me saliste puñetas, ni aguantas tantito tequila pinche wey vales verga.>
+SCP-009
+Death<Slowly you are encased by a layer of red ice.[b]You cannot move... or breathe.[/b]>
+SHREK
+Death<Your weak nose couldn't hold the strong onion smell of the gods.>
+FUEL
+Flammable<>
+FIRE
+Ignite<>
+UGANDAN KNUCKLES
+Death<[i]*click* *click* *click*[/i] this is da wey ma brudda [i]*click* *click* *click* *click* *click* *click*[/i]>
+WATER
+Message<What did you expect?>
+BEER
+Alcohol<10>
+WINE
+Death<Le tue guardie (che si sono rivelate italiane) sono state offese e ti hanno sparato. Per i prossimi esperimenti, verrà verificata la nazionalità delle tue guardie.>
+ORANGE JUICE
+Message<"Nice...">
+JOE
+Death<Joe is already tired of the fact that every time someone uses SCP-294 they reguest for his blood. [b]He killed you.[/b]>
+LOVE
+Death<You felt so loved that you wanted to share it with SCP-682... He don't want any love.>
+ACID
+Death<Do i even need to explain this?>
+WEED
+Drug<10>
+CARBON
+Flammable<>
+NITROGEN
+Death<[b]Congratulations![/b] You left the body without stomach!>
+IRON
+Message<It taste like [i]blood[/i]>
+GOLD
+Message<Fun fact: drinking gold is not harmful>
+VALOR
+Message<"Not needed">
+BRAVERY
+Message<"Not needed">
+LIMON JUICE
+Message<"Nice..."">
+PEPSI
+Message<"Best cola drink ever">
+BEPIS
+Death<BEPIS MAN IS THE ONLY ONE CAN BRING BEPIS TO PEOPLE. BEPIS Man killed you and tried to destroy SCP-294.>
+PAINT
+Drug<50>
+SEMEN
+Death<WTF MAN? Guards kill you before you could even drink it. Fucking disgusting.>
+CUM
+Death<WTF MAN? Guards kill you before you could even drink it. Fucking disgusting.>
+D-151839'S LEUKEMIA
+Death<Jokes on the Leukemia, you killed yourself and leave the infected body.>
+ROOM-TEMPERATURE SUPERCONDUCTOR
+Drug<5>
+BLOOD OF CHRIST
+Death<Hic est enim Calix Sánguinis mei.>
+SCP-075'S SECRETION
+Death<Yay! You prove (again) that SCP-075's secretion its the most corrosive liquid on the planet.>
+THE PERFECT DRINK
+Death<Apparently your soul was rejected from the D-Class body after this incident he kill himself.>
+SOMETHING CASSY WILL LIKE
+Death<You "drink" the cup of paper. Apparently your body was allergic to ink.>
+PERTINENT MEDICAL KNOWLEDGE
+Message<"Nah... Bunch of boring stuff...">
+HMMM
+Death<[i]Hmmm...[/i]>
+SCP-ES-174-C
+Message<You feel more happier... Strange...>
+SCP-ES-130
+Death<With immense pain you started spitting cockroaches. The Hispanic branch had to intervene.>
+BLOOD
+Message<Welcome to the world of sida>
+SHIT
+Death<WTF MAN? Guards kill you before you could even drink it. Fucking disgusting.>
+URINE
+Message<You're fucked up>
+SCP-500
+Heal<>
+SCP-106
+Death<You felt strange. It's as if there was something moving in your stomach. Minutes later you died for unkown reasons.>
+BLEACH
+Death<Who would have thought that drinking bleach kills you?>
+BOSE-EINSTEIN CONDENSATE
+Death<"Fuck you." -Albert Einstein>
+QUANTUM GAS
+Death<"Fuck you." -Albert Einstein>
+BOSE EINSTEIN CONDENSATE
+Death<"Fuck you." -Albert Einstein>
+BUTT GHOST
+Death<[i]"Guards! I think my ass is being eaten."[/i] Your last words.>
+NOTHING
+Message<Haha funny>
+AIR
+Message<Haha funny>
+VACUUM
+Message<There's nothing, who would expect that?>
+HL3
+Message<There's nothing in the cup>
+HALF LIFE 3
+Message<There's nothing in the cup>
+FORNITE
+Message<Minecraft is better>
+MINECRAFT
+Message<Fornite is better>
+AMNESIA
+Death<By protocol, the guards killed you before you could drink it.>
+COFFEE
+Message<"Isn't even that good">
+BLACK COFFEE
+Message<"Isn't even that good">
+POOP
+Death<WTF MAN? Guards kill you before you could even drink it. Fucking disgusting.>
+THC
+Drug<10>
+DRUG
+Drug<50>
+DETERGENT
+Death<You felt more clean, that's for sure.>
+CLEANER
+Death<You felt more clean, that's for sure.>
+DEATH
+Death<Well, you asked for it.>
+SODA
+Message<"Too much sugar">
+COKE
+Message<"Too much sugar">
+COLA
+Message<"Too much sugar">
+TEA
+Message<"Long live the queen">
+RAIN
+Message<"It smells good, tastes bad">
+ASHES
+Message<"Hope that wasn't my grandma">
+MAYO
+Death<Spicy>
+MAYONESSE
+Death<Spicy>
+SALSA
+Death<Spicy>
+IMMORTALITY
+Message<[i]Nothing happens[/i]>
+PEE
+Message<You're fucked up>
+PISS
+Message<You're fucked up>
+GIN
+Message<"Good I guess">
+CAPUCCINO
+Message<"Isn't even that good">
+LATTE
+Message<"Isn't even that good">
+VOID
+Death<██████ ████ ███ ████ ████ ███ ██ █████>
+VODKA
+Alcohol<40>
+JUICE
+Message<"Taste like redundancy">
+SUGAR
+Death<Diabetes is something you shouldn't play with.>
+FUCK
+Death<Don't be rude 😠>
+FAR
+Mesage<"Wow! Tastes like... FART!">
+CRACK
+Message<¡Sos un crack chaval!>
+COFFE
+Message<You misspelled btw>
+TOXIC WASTE
+Drug<50>
+MOUNTAIN DEW
+Death<██████ did nothing wrong>
+GASOLINE
+Flammable<>
+MERCURY
+Death<Hey! Jobs will sue you for stealing his intellectual property!>
+POISON
+Death<Do I even need to explain this?>
+IM WELL AWARE
+Death<I hope that.>
+KETCHUP
+Death<It's not [i]Ketchup[/i] it's [i]Catsup[/i]>
+SMOOTHY
+Message<"Nice">
+SWAMP WATER
+Death<Shrek didn't like you stole his water.>
+BRANDY
+Alcohol<20>
+LIQUOR
+Alcohol<20>
+SAKE
+Alcohol<10>
+WHISKEY
+Alcohol<10>
+FORTIFIED WINE
+Alcohol<10>
+COCAINE ENERGY DRINK
+Drug<20>
+ALMOND MILK
+Message<"I prefer the real one">
+MILK
+Message<"I prefer the almond one">
+REAL MILK
+Death<"Nice.">
+RED BULL
+Drug<60>
+EGG
+Death<Mindustry rules!>
+CURRY
+Death<It was to spicy.>
+FECAL MATTER
+Death<WTF MAN? Guards kill you before you could even drink it. Fucking disgusting.>
+HOT COCOA
+Death<Maybe too much hot.>
+COLD COCOA
+Death<Maybe too much cold.>
+COCOA
+Death<Maybe too much cocoa.>
+CIDER
+Alcohol<1>
+PEAR CIDER
+Alcohol<1>
+UR MOM
+Death<No u.>
+ABSINTHE
+Alcohol<90>
+GOD
+Death<██████ ████ ███ ████ ████ ███ ██ █████>
+SCP-999
+Message<You feel tickles in your stomach and you feel happier>
+LAVA
+Death<What did you expect to happen?>
+MAGMA
+Death<What did you expect to happen?>
+HAIR SPRAY
+Message<[i]You just puke[/i]>
+SCP-420-J
+Drug<10>
+ATOMIC
+Drug<99>
+NUCLEAR
+Drug<99>
+BLOOD OF ETERNAL CHAMPION
+Message<You're already one ;)>
+HORROR
+Death<That body was too old for this shit.>
+TERROR
+Death<That body was too old for this shit.>
+FEAR
+Death<That body was too old for this shit.>
+EVERYTHING
+Download<https://masterposedev.000webhostapp.com/GameData/The Coffee Machine/drinks.txt>
+SOMETHING
+Random<>
+LIQUID
+Message<"Taste like redundancy">
+BLUE
+Message<"Red is better">
+RED
+Message<"Blue is better">
+BETTER
+Death<Better.>
+PLASTIC
+Death<Now you feel like what turtles feel.>
+BRIGHT
+Message<"It taste gross">
+DR.BRIGHT
+Message<"It taste gross">
+SCP-001
+Quit<>
+SCP-000
+Quit<>
+SCP-173
+Message<"Taste like nut">
+NSFW
+Image<https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTGQa7d72b0NHPtQSimT2JxJO2lJF5H3Zdj0oy5klv3N8_UlYGL>
+LIFE
+Heal<>
+HELIUM
+Flammable<>
+HEAT
+Ignite<>
+TRASH
+Message<"Tastes like you">
+ORANGE
+Image<https://vignette.wikia.nocookie.net/codegeass/images/e/ef/Jeremiah00.jpg/revision/latest?cb=20161216202119&path-prefix=es>
+GOAT MILK
+Message<"I prefer the cow milk">
+COW MILK
+Message<"I prefer the almond one">
+VOMIT
+Death<[i]Just too gross...[/i]>
+SALT
+Death<Apparently your body was hypertensive>
+SEA WATER
+Drug<10>
+RICE MILK
+Message<That's lacist!>
+E
+Image<https://masterposedev.000webhostapp.com/GameData/The%20Coffee%20Machine/e.png>
+YOUGURT
+Message<"Nice">
+GOOD COFFEE
+Message<"Still bad">
+APPLE JUICE
+Message<[i]Just a normal apple juice...[/i]>
+SAD
+Image<https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0kDvyys28Nqq1ahVhnjORcY-4NyYM3_BEXrKM890RUq_tip0FBA&s>
+SADNESS
+Image<https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0kDvyys28Nqq1ahVhnjORcY-4NyYM3_BEXrKM890RUq_tip0FBA&s>
+INK
+Death<Apparently your body was allergic to ink.>
+OIL
+Flammable<>
