@@ -372,9 +372,43 @@ Death<[b]Pretty much toxic.[/b]>
 Death<[i]...456789...[/i]>
 HEALTH
 Heal<>
-LAMB
+LAMP
 Image<https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS6Jx4dHeSFweNOw8CpXN8-C5U3p9pBngr3p0K5FcKi71xbS3mJ>
 GLASS
 Death<The glass cooled in your throat ... [i]You suffocated[/i]>
 ASS
 Death<If never eated ass at least you have drunk one. [i]You died from E-Coli btw...[/i]>
+LAXATIVES
+Death<You shitted so hard your guts got out.>
+ALIEN BLOOD
+Death<You died from space aids.>
+H2O
+Message<What did you expect?>
+KILL ME
+Death<Okay.>
+YES
+Death<NO.>
+NO
+Death<YES.>
+LSD
+Drug<70>
+POTION OF YOUTH
+Death<You became a baby and died I guess?>
+STUFF
+Random<>
+DNA
+Death<That DNA had aids.>
+FURRIES
+Death<You deserve to die.>
+TIDE-POD
+Death<"Hey bros! Remember to smash that like button! Now let's get some LIT TIDES I'mma right dudes?" Your last words>
+COUGH SYRUP
+Message<"It doesn't taste so bad to be honest">
+PLASMA
+Ignite<>
+SAKE
+Alcohol<10>
+SPRITE
+Message<"Best drink of all">
+:(
+Death<:)>
