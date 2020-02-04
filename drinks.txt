@@ -251,7 +251,7 @@ Death<That body was too old for this shit.>
 FEAR
 Death<That body was too old for this shit.>
 EVERYTHING
-Download<https://masterposedev.000webhostapp.com/GameData/The Coffee Machine/drinks.txt>
+Download<https://raw.githubusercontent.com/MasterPose/TheCoffeeMachine/master/drinks.txt>
 SOMETHING
 Random<>
 LIQUID
@@ -273,7 +273,7 @@ Quit<>
 SCP-000
 Quit<>
 SCP-173
-Message<"Taste like nut">
+Message<"Tastes like peanut">
 NSFW
 Image<https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTGQa7d72b0NHPtQSimT2JxJO2lJF5H3Zdj0oy5klv3N8_UlYGL>
 LIFE
@@ -318,3 +318,5 @@ GAY
 Death<Ur mom.>
 SURPRISE ME
 Random<>
+BOILING WATER
+Death<[i]"Shit! Too hot!"[/i]>
