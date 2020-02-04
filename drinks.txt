@@ -320,3 +320,61 @@ SURPRISE ME
 Random<>
 BOILING WATER
 Death<[i]"Shit! Too hot!"[/i]>
+COMMUNISM
+Death<By protocol, the guards killed you before you could drink it.>
+STALIN
+Death<By protocol, the guards killed you before you could drink it.>
+PEPTO BISMOL
+Heal<>
+DISASTER
+Death<You became an anarchist and started destroying the installation. [i]The guards killed you.[/i]>
+RAGE
+Death<You opened a twitter account and got mad at any nonsense. Your liver couldn't stand it.>
+ESTUS
+Heal<>
+DOG
+Message<Interesting China food.>
+CAT
+Message<Interesting China food.>
+CHEESE
+Message<"Ugh, too many">
+DR.PEPPER
+Message<"Tastes like medicine">
+METH
+Drug<40>
+ME
+Death<Some paradox happened.>
+OIL
+Flammable<>
+EAR
+Message<"Van Gogh has a unique taste">
+EARS
+Message<"Van Gogh has a unique taste">
+ALOE VERA
+Message<"It has little taste">
+AQUA
+Message<What did you expect?>
+HEROIN
+Drug<50>
+HEAVEN
+Death<[b]You asked for it.[/b]>
+GAYNESS
+Death<You couldn't stand your own taste>
+ETHANOL
+Flammable<>
+SLIME
+Message<"Why watch tutorials on YouTube?">
+NULL
+Death<You're a smart guy, I like you ;)>
+TITANIUM
+Death<[b]Pretty much toxic.[/b]>
+123
+Death<[i]...456789...[/i]>
+HEALTH
+Heal<>
+LAMB
+Image<https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS6Jx4dHeSFweNOw8CpXN8-C5U3p9pBngr3p0K5FcKi71xbS3mJ>
+GLASS
+Death<The glass cooled in your throat ... [i]You suffocated[/i]>
+ASS
+Death<If never eated ass at least you have drunk one. [i]You died from E-Coli btw...[/i]>
