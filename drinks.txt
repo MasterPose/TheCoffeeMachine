@@ -293,7 +293,7 @@ Message<"I prefer the almond one">
 VOMIT
 Death<[i]Just too gross...[/i]>
 SALT
-Death<Apparently your body was hypertensive>
+Death<Apparently your body was hypertensive.>
 SEA WATER
 Drug<10>
 RICE MILK
@@ -438,3 +438,29 @@ CAT URINE
 Death<Please stop introducing this weird shit :)>
 DOG URINE
 Death<Please stop introducing this weird shit :)>
+DICK
+Messasge<OWWWW SO WILD BRO! LIT I'MMA RIGHT?! LET'S GET THOSE BITCHES BOIIIII!>
+PUSSY
+Death<You made the guard's pussycat become a drink, he wasn't too happy about it.>
+MYSELF
+Death<Some paradox happened.>
+HITLER
+Death<A horde of SJWs killed you for beign an homophobic piece of shit, human garbage.>
+NAZI
+Death<A horde of SJWs killed you for beign an homophobic piece of shit, human garbage.>
+SEX
+Message<"Tastes gross">
+CHOCOLATE
+Message<"Nice...">
+HOT COCO
+Death<Too hot.>
+AMARICA
+Message<"I don't understand what is it, but it taste good I guess?">
+MASTER POSE
+Death<The developer killed you for trying to find an Easter Egg.>
+SECRET
+Death<The developer killed you for trying to find an Easter Egg.>
+XXX
+Messasge<OWWWW SO WILD BRO! LIT I'MMA RIGHT?! LET'S GET THOSE BITCHES BOIIIII!>
+PORN
+Messasge<OWWWW SO WILD BRO! LIT I'MMA RIGHT?! LET'S GET THOSE BITCHES BOIIIII!>
