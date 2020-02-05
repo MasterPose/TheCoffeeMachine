@@ -464,3 +464,41 @@ XXX
 Messasge<OWWWW SO WILD BRO! LIT I'MMA RIGHT?! LET'S GET THOSE BITCHES BOIIIII!>
 PORN
 Messasge<OWWWW SO WILD BRO! LIT I'MMA RIGHT?! LET'S GET THOSE BITCHES BOIIIII!>
+K
+Message<Boomer.>
+SUN
+Death<Moon.>
+MOON
+Death<Sun.>
+ICE
+Death<You get a very serious case of frozen brain...>
+PENIS
+Messasge<OWWWW SO WILD BRO! LIT I'MMA RIGHT?! LET'S GET THOSE BITCHES BOIIIII!>
+SALT WATER
+Death<Apparently your body was hypertensive.>
+DIARRHEA
+Death<WTF MAN? Guards kill you before you could even drink it. Fucking disgusting.>
+MEXICAN
+Death<No mames pinche wey como te tratas de beberte a uno de los nuestros, aqui puro barrio entendiste maestro>
+GAS
+Flammable<>
+YOUR MOM
+Message<[b]NO U[/b]>
+UR MUM
+Message<[b]NO U[/b]>
+ONE
+Death<Two.>
+THREE
+Death<Four.>
+FIVE
+Death<SIX.>
+SEVEN
+Death<EIGHT.>
+NINE
+Death<TEN HAHA! I WON!>
+O5
+Quit<>
+O-5
+Quit<>
+FUCK YOU
+Death<No, fuck YOU!>
