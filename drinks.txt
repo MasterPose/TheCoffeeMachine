@@ -502,3 +502,22 @@ O-5
 Quit<>
 FUCK YOU
 Death<No, fuck YOU!>
+COCK
+Message<Tastes like raw chicken.>
+UWU
+Death<[i]Notice me senpai, owo what's that bulge I see >w< Yummy XD Nuzzles.[/i]>
+NIGGA
+Death<That's an illegal word bro. Two guards with black skin killed you btw.>
+FURRY
+Death<You converted to a furry and now you're death like a good furry.>
+NUT
+Death<[i]MMMH[/i] The good taste of [b]neck snap[/b].>
+PEANUT
+Death<[i]MMMH[/i] The good taste of [b]neck snap[/b].>
+BLACK HOLE
+REVIVE
+Death<Just click the button and your wish will happen.>
+URANIUM
+Death<For unknown reasons the uranium in your body regenerates, making an unlimited source of radioactivity. This was listed as SCP-████ and is used to generate electricity on the site-██.>
+YEET
+Death<[i]You [b]yeeted[/b] too hard.[/i]>
