@@ -136,7 +136,7 @@ ASHES
 Message<"Hope that wasn't my grandma">
 MAYO
 Death<Spicy>
-MAYONESSE
+MAYONNAISE
 Death<Spicy>
 SALSA
 Death<Spicy>
