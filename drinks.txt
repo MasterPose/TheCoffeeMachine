@@ -545,4 +545,4 @@ Drug<50>
 FAT
 Death<Congratulations you beat the social stereotypes! And now you're dead!>
 RANDOM
-Random<>
+Death<Please be more creative.>
