@@ -560,3 +560,13 @@ DIRT
 Message<Tastes like earth.>
 PIZZA
 Message<[i]"Tastes like melted cheese with peperoni sauce"[/i]>
+KEK
+Death<You served as a sacrifice for our GOD.>
+MEXICO
+Message<Hola patron que pedo entonces ¿se va a hacer o no se va a hacer la carnita asada?>
+SPAIN
+Message<Ostia coño que no me andeis jodiendo>
+USA
+Message<Let's make America great again!>
+JOE MAMA
+Death<SO FUNNY BRO, HAHA LIT 😂👌🔥💯>
