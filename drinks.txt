@@ -448,8 +448,6 @@ HITLER
 Death<A horde of SJWs killed you for beign an homophobic piece of shit, human garbage.>
 NAZI
 Death<A horde of SJWs killed you for beign an homophobic piece of shit, human garbage.>
-SEX
-Message<"Tastes gross">
 CHOCOLATE
 Message<"Nice...">
 HOT COCO
@@ -546,3 +544,19 @@ FAT
 Death<Congratulations you beat the social stereotypes! And now you're dead!>
 RANDOM
 Death<Please be more creative.>
+FLAMMABLE GAS
+Flammable<>
+SEX
+Death<How old are you?>
+KOMPOT
+Message<[i]Ah ha, Babushka favorite drink[/i]>
+BOTULINUM TOXIN
+Death<Well, you drunk the mosth lethal toxin in the earth, what did you expect?>
+CARBONARE
+Death<[i]"I wonder how my corpse looks now"[/i]>
+EARTH
+Message<Tastes like dirt.>
+DIRT
+Message<Tastes like earth.>
+PIZZA
+Message<[i]"Tastes like melted cheese with peperoni sauce"[/i]>
