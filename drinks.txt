@@ -507,7 +507,7 @@ Death<[i]Notice me senpai, owo what's that bulge I see iwi Yummy XD Nuzzles.[/i]
 NIGGA
 Death<That's an illegal word bro. Two guards with black skin killed you btw.>
 FURRY
-Death<You have been converted to a furry and now you're dead like every should be.>
+Death<Now you're death like the animal you are.>
 NUT
 Death<[i]MMMH[/i] The good taste of [b]neck snap[/b].>
 PEANUT
@@ -549,7 +549,7 @@ Flammable<>
 SEX
 Death<How old are you?>
 KOMPOT
-Message<[i]Ah ha, Babushka favorite drink[/i]>
+Message<[i]"Ah ha, Babushka favorite drink"[/i]>
 BOTULINUM TOXIN
 Death<Well, you drunk the mosth lethal toxin in the earth, what did you expect?>
 CARBONARE
