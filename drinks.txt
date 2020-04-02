@@ -602,3 +602,7 @@ DANK MEMES
 Image<https://i.imgflip.com/1wjxxr.jpg>
 DANK MEME
 Image<https://i.imgflip.com/1wjxxr.jpg>
+EMPTINESS
+Death<"When you put your face into the cup you suffocated, the machine brought you nothing, you didn't expect this didja?">
+CUP
+Message<"I can't drink this, this is literally porcelain">
