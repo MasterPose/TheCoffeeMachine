@@ -582,3 +582,23 @@ YOU
 Message<"Tastes like trash">
 SMOOTHIE
 Message<"Nice...">
+NUKE
+Death<[i]"This is his last fucking joke!"[/i]>
+PISS
+Message<No way I'm drinking this>
+CALCIUM
+Death<Mmmm delicious calcium>
+CTHULU
+Death<[i]Before dying you saw a large blurry shadow, however, that same inconspicuous shadow will haunt you for the rest of your lives[/i]>
+DEVIL
+Death<You're buddy sends you greetings>
+4-CHAN
+Message<"Gross...">
+4CHAN
+Message<"Gross...">
+TONIC
+Message<"[i]Ahhh[/i]... Refreshing">
+DANK MEMES
+Image<https://i.imgflip.com/1wjxxr.jpg>
+DANK MEME
+Image<https://i.imgflip.com/1wjxxr.jpg>
