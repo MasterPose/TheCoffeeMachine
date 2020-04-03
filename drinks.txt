@@ -606,3 +606,19 @@ EMPTINESS
 Death<"When you put your face into the cup you suffocated, the machine brought you nothing, you didn't expect this didja?">
 CUP
 Message<"I can't drink this, this is literally porcelain">
+FACT
+Message<A dozen bodies were once found in Benjamin Franklin's basement.>
+JOKE
+Death<Want to hear a joke about a piece of paper? Never mind... it's tearable.>
+THANK YOU
+Death<Your welcome.>
+OK I STOP
+Death<Thanks.>
+GORDON FREEMAN
+Image<https://i.kym-cdn.com/photos/images/facebook/000/203/128/roflbot-QsSA.jpg>
+HENTAI
+Image<https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTGQa7d72b0NHPtQSimT2JxJO2lJF5H3Zdj0oy5klv3N8_UlYGL>
+HEADCRAB
+Death<By protocol, the guards killed you before you could drink it.>
+WIKIDOT
+Message<"[i]Ahhh[/i], the flavor of home">
