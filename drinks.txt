@@ -624,3 +624,23 @@ WIKIDOT
 Message<"[i]Ahhh[/i], the flavor of home">
 BREACH
 Download<http://undertowgames.com/file/scp/SCP%20-%20Containment%20Breach%20v1.3.11.zip>
+VSAUCE
+Death<The last thing you heard was [i]"Michael here"[/i]>
+SPERM
+Death<WTF MAN? Guards kill you before you could even drink it. Fucking disgusting.>
+NAUGHTY
+Image<https://i.pinimg.com/originals/25/a5/cb/25a5cb6637cd637adc00942e8f30f492.jpg>
+CHILDREN
+Message<[i]"Taste like my umbilical cord"[/i]>
+DEAD MEMES
+Image<https://lh3.googleusercontent.com/proxy/HrLbU5TYRk3cdqAXbVG-UtvLl8VM5hi11SKzXLpCNY0Mfn-IhScxfCEUevA3-aTZXZUsjX19CXMI8Wv85UWyHPbTfdgGpeD6gefsNL8_BSSS9LZ4-flVaX68u9zfmIutlJ66qDPngcRVQ6oVizvXwnlIPFCEoue3TZNxMbjL-SgwzItsrlrDLB5WuI0mm1Tz7Z29GlivKrf9Jv23ZCsHBX3j4bNROktmxVEF>
+REDUNDANCY
+Message<"Taste like liquid">
+HAPPY
+Death<[i]You died from happiness[/i]>
+NOT SAD
+Death<[i]You died from not sadness[/i]>
+FOOT
+Death<Ass guys be like "Ugh you like feet" Ima right?>
+INSERT CUP OF...
+Death<You're so clever, like everyone else who put the same...>
