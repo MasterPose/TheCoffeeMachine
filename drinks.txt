@@ -668,3 +668,17 @@ GUNPOWDER
 Flammable<>
 ●●|●●●●●|●●|●
 Quit<>
+SCP-2521
+Quit<>
+ALCOHOL
+Alcohol<50>
+HAND SOAP
+Drug<10>
+EXPLODE
+Ignite<>
+BLACK HOLE
+Death<You wonder in the limbo how many minutes will take to the facility to contain it...>
+CAPITALISM
+Death<That's what happens...>
+YUMMY
+Message<Uwu>
