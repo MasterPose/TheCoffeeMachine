@@ -648,3 +648,23 @@ Death<You're so clever, like everyone else who put the same...>
 Death<7n7>
 NIGGER
 Death<That's an illegal word bro. Two black guards killed you...>
+LEMONADE
+Message<"Nice...">
+KOOL AID
+Death<Too [i]Kool[/i]...>
+BRANDY
+Alcohol<10>
+RAMEN
+Message<"Not a big deal">
+PINAPPLE COLA
+Death<You died with a smile in your face...>
+INK
+Death<"¡¿How squid do it?!">
+ILLUMINATI
+Death<A pile of spam email of the style of "ey bru do u wanto join da iluminatis?" [i]smashed you[/i]...>
+EXPLOSION
+Death<"SCP-294 has escaped from the facility..." were the last words you heard>
+GUNPOWDER
+Flammable<>
+●●|●●●●●|●●|●
+Quit<>
