@@ -681,6 +681,4 @@ Death<You wonder in the limbo how many minutes will take to the facility to cont
 CAPITALISM
 Death<That's what happens...>
 YUMMY
-Message<Uwu>
-GENERATOR
 Download<https://masterpose.tk/pages/the_coffee_machine_generator/index.html>
