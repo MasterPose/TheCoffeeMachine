@@ -680,5 +680,7 @@ BLACK HOLE
 Death<You wonder in the limbo how many minutes will take to the facility to contain it...>
 CAPITALISM
 Death<That's what happens...>
-YUMMY
+GENERATOR
 Download<https://masterpose.tk/pages/the_coffee_machine_generator/index.html>
+YUMMY
+Message<Uwu>
