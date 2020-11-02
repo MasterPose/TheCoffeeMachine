@@ -688,3 +688,31 @@ BEST TOOL
 Download<https://masterpose.tk/pages/the_coffee_machine_generator/index.html>
 SCP-294
 Death<[i]You have eaten the machine and therefore ripped a hole in the space-time continuum[/i]>
+MY LIFE
+Message<"So funny!">
+CONTAINMENT BREACH
+Death<[i]Congrats! [b]you let all the SCPS out[/b]...[/i]>
+QUESTION
+Message<"Why did I order that?">
+QUESTIONS
+Message<"Why did I order that?">
+JOE
+Death<[i]JOE MAMA!!! HAHA GOT'EM![/i]>
+665
+Message<[i]You missed one thing[/i]>
+CHEAT
+Death<[i]Try next time...[/i]>
+HACKS
+Death<[i]Try next time...[/i]>
+COMEDY
+Death<[i]Search somewhere else..[/i]>
+JOKE
+Death<Don't trust the atoms. They make up everything!... [i]You died of [b]*funny*[/b][/i]>
+CRINGE
+Message<"So edgy...">
+SPOILER
+Message<"Not cool">
+LIQUID ASS
+Message<"Tastes familiar...">
+PERSON BEHIND ME
+Death<DON'T TURN AROUND>
