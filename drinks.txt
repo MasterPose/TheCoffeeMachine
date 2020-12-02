@@ -717,4 +717,4 @@ Message<"Tastes familiar...">
 PERSON BEHIND ME
 Death<DON'T TURN AROUND>
 JUMPSCARE
-Image<https://i.pinimg.com/originals/30/b8/9a/30b89abe1854a71a62e9253e3a60531c.jpg>
+Image<https://i1.sndcdn.com/avatars-000356539985-fh4hkp-t500x500.jpg>
