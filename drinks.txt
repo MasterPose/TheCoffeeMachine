@@ -718,3 +718,31 @@ PERSON BEHIND ME
 Death<DON'T TURN AROUND>
 JUMPSCARE
 Image<https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photos/1590501/26099_disturbed.jpg>
+USSR
+Death<[i]You died like a comrade...[/i]>
+SOVIET UNION
+Death<[i]You died like a comrade...[/i]>
+DEVELOPER
+Death<[i]"Tastes like laziness"[/i]>
+PARADOX
+Quit<>
+CORONAVIRUS
+Death<Too soon to joke about it?>
+COVID-19
+Death<Too soon to joke about it?>
+HOT
+Message<No u ;)>
+SEXY
+Message<No u ;)>
+BAD
+Death<BAD DOCTOR!>
+9GAG
+Message<[i]"It could be worse..."[/i]>
+BOOBS
+Death<Massive doinkers grew from you, [i]you died of [b]pleasure[/b][/i]>
+TITTIES
+Death<Massive doinkers grew from you, [i]you died of [b]pleasure[/b][/i]>
+SIDA
+Message<[i]"Yummy"[/i]>
+QUALITY
+Death<Wrong game pal>
