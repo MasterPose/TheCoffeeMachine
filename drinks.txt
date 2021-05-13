@@ -746,3 +746,29 @@ SIDA
 Message<[i]"Yummy"[/i]>
 QUALITY
 Death<Wrong game pal>
+AGONY
+Death<Well that wasn't a pleasant experience>
+MEMES
+Death<Died of laughter>
+SCP-1176-1
+Message<Tastes like honey... I hope there aren't any side effects.>
+SCP-505-1
+Death<This will take forever to clean up.>
+JOY
+Message<You feel warm and happy.>
+ANTIMATTER
+Death<...>
+DEPRESSION
+Message<You are filled with existential dread.>
+OXYGEN
+Death<Wow, that's cold>
+SELTZER
+Message<Why do I like this>
+CUBAN MISSILE CRISIS
+Death<Nothing like nuclear war in the morning>
+FOLGERS
+Message<I'd rather have literally anything else.>
+FLINT MICHIGAN WATER
+Death<You think you're funny?
+KOMBUCHA
+Message<Why do I like this>
