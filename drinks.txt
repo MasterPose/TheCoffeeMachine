@@ -759,16 +759,18 @@ Message<You feel warm and happy.>
 ANTIMATTER
 Death<...>
 DEPRESSION
-Message<You are filled with existential dread.>
+Message<[i]You are filled with existential dread.[/i]>
 OXYGEN
 Death<Wow, that's cold>
 SELTZER
-Message<Why do I like this>
+Message<"Why do I like this">
 CUBAN MISSILE CRISIS
 Death<Nothing like nuclear war in the morning>
 FOLGERS
-Message<I'd rather have literally anything else.>
+Message<"I'd rather have literally anything else">
 FLINT MICHIGAN WATER
-Death<You think you're funny?
+Death<Do you think you're funny?
 KOMBUCHA
-Message<Why do I like this>
+Message<"Why do I like this?">
+PUDDING
+Message<"This is good">
